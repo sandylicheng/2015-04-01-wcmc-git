@@ -1,5 +1,7 @@
 #Thesis
 
-Bt: Cheng
+By: Cheng Li and MGG
+
+Title
 
 Hello there
